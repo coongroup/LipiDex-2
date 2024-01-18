@@ -3,7 +3,7 @@
 ### Software tools for liquid chromatography-mass spectrometry (LC-MS) lipidomics
 
 
-### [Download](https://github.com/benton-anderson/LipiDex-2/releases/latest)
+### [Download](https://github.com/coongroup/LipiDex-2/releases/latest)
 
 ## Features and improvements
 - **Library Generator:** Spectral library creation with *in silico* fragmentation.
@@ -30,17 +30,17 @@
 - **IMPROVED:** Results are filtered on 7 criteria to boost confidence in your identifications and quantitation
 
 ## Getting started
-[Download the .zip file](https://github.com/benton-anderson/LipiDex-2/releases/latest), extract onto your computer and run LipiDex2.exe
+[Download the .zip file](https://github.com/coongroup/LipiDex-2/releases/latest), extract onto your computer and run LipiDex2.exe
 
 Instructions are found in the [LipiDex 2 Wiki](https://github.com/coongroup/LipiDex-2/wiki) (WiP)
 
-All LipiDex 2 modules are stand-alone, however Peak Finder requires [Compound Discoverer version 3.3](https://www.thermofisher.com/us/en/home/industrial/mass-spectrometry/liquid-chromatography-mass-spectrometry-lc-ms/lc-ms-software/multi-omics-data-analysis/compound-discoverer-software.html) 
+All LipiDex 2 modules are stand-alone and pass .csv results files through the pipeline. However Peak Finder requires [Compound Discoverer version 3.3](https://www.thermofisher.com/us/en/home/industrial/mass-spectrometry/liquid-chromatography-mass-spectrometry-lc-ms/lc-ms-software/multi-omics-data-analysis/compound-discoverer-software.html) .cdResult files as input for the peak table. COMING SOON: support for MZMine as peak detection software.
 
 ## Installing 
 
 LipiDex 2 is a stand-alone executable program and does not require any installation.
 
- .NET 7.0 are required. Windows will automatically prompt you to install them when you run LipiDex2.exe.
+.NET 7.0 is required. Your operating system will automatically prompt you to install them when you run LipiDex2.exe.
 
 
 
