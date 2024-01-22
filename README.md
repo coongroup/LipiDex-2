@@ -34,7 +34,7 @@
 
 Instructions are found in the [LipiDex 2 Wiki](https://github.com/coongroup/LipiDex-2/wiki) (WiP)
 
-All LipiDex 2 modules are stand-alone and pass .csv results files through the pipeline. However Peak Finder requires [Compound Discoverer version 3.3](https://www.thermofisher.com/us/en/home/industrial/mass-spectrometry/liquid-chromatography-mass-spectrometry-lc-ms/lc-ms-software/multi-omics-data-analysis/compound-discoverer-software.html) .cdResult files as input for the peak table. COMING SOON: support for MZMine as peak detection software.
+All LipiDex 2 modules are stand-alone and pass .csv results files through the pipeline. However Peak Finder requires [Compound Discoverer version 3.3](https://www.thermofisher.com/us/en/home/industrial/mass-spectrometry/liquid-chromatography-mass-spectrometry-lc-ms/lc-ms-software/multi-omics-data-analysis/compound-discoverer-software.html) .cdResult files as input for the peak table.
 
 ## Installing 
 
